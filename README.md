@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+My Repo: <https://github.com/ucsb-cs156-f22/jpa03-christianvanstralen>
+
 Storybook is here:
 * Production: <https://github.com/ucsb-cs156-f22/jpa03-christianvanstralen-docs/>
 * QA:  <https://github.com/ucsb-cs156-f22/jpa03-christianvanstralen-docs-qa/>
